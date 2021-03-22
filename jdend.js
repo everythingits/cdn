@@ -22,7 +22,7 @@ function jd() {
 	}
 
 }
-setTimeout(function() {
+setTimeout(function () {
 	jd();
 },
-1000);
+	1000);
